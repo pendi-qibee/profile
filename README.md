@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pendi</h1>
 <h3 align="center">A mobile developer from Indonesia</h3>
 
-<p align="center"> <a href="https://twitter.com/pendimadyana" target="blank"><img src="https://img.shields.io/twitter/follow/zubair340?logo=twitter&style=for-the-badge" alt="zubair340" /></a> </p>
+<p align="center"> <a href="https://twitter.com/pendimadyana" target="blank"><img src="https://img.shields.io/twitter/follow/pendimadyana?logo=twitter&style=for-the-badge" alt="zubair340" /></a> </p>
 
 - 🔭 I’m currently working on [cektoko](https://cektoko.com/)
 
